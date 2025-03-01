@@ -67,9 +67,13 @@
 }
 
 .cta-button.small {
-  width: 120px;
+  width: 290px;
   padding: 8px 16px;
   font-size: 1em;
+  position: absolute; /* Position the button absolutely */
+  bottom: 20px; /* Distance from bottom of card */
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Center adjustment */
 }
 
 .cta-button:hover {
@@ -78,7 +82,8 @@
 
 .restaurant-cards {
   margin-top: 20px;
-  background-color: #54331b; /* Brown color */
+  padding-bottom: 100px;
+  background-color: #a17454; /* Brown color */
   padding-left: 100px;
   display: flex;
   flex-wrap: wrap; /* Allows cards to wrap in multiple rows */
@@ -89,12 +94,14 @@
   padding: 20px;
   margin: 10px;
   border-radius: 10px;
-  width: 350px; /* Set a fixed width for the card */
+  width: 350px;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center-align the content */
-  text-align: center; /* Center the text */
-  background-color: transparent; /* Make the card background transparent */
+  align-items: center;
+  text-align: center;
+  background-color: transparent;
+  position: relative; /* Add position relative */
+  height: 420px; /* Set a fixed height for the card */
 }
 
 .restaurant-image {
@@ -110,7 +117,7 @@
   font-weight: 350;
   margin-top: 10px; /* Reset margin to remove unnecessary space */
   margin-bottom: 3px;
-  color: #9b816f; /* Brown color for the title */
+  color: #eaeaea; /* Brown color for the title */
 }
 
 .restaurant-card p {
@@ -120,5 +127,4 @@
   margin: 0; /* Reset margin to remove unnecessary space */
   padding-top: 5px; /* Optional: add a small space between the text */
   font-weight: 100;
-  text-align: left;
 }

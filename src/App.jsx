@@ -8,6 +8,7 @@ const restaurants = [
       "This enduring institution serving comfort food like eggs & coffee is always open.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7c/f1/d7/lincoln-diner.jpg?w=2000&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "Food 101",
@@ -15,6 +16,7 @@ const restaurants = [
       "Gourmet New American dishes & pizza served in a basic, modern space with bold prints & fabrics.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5b/25/cd/photo3jpg.jpg?w=2000&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "The Gettysburger Company",
@@ -22,6 +24,7 @@ const restaurants = [
       "Jumbo burgers & other homestyle classics are served with draft beer at this old-school restaurant.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f2/b7/f0/great-bar-at-gettysburger.jpg?w=1400&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "Garryowen Irish Pub",
@@ -36,6 +39,7 @@ const restaurants = [
       "A colonial restaurant offering candlelit elegance, abundant food, and gracious service that evoke the charm of two centuries ago.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/fb/df/8a/photo0jpg.jpg?w=1400&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "Farnsworth House Tavern",
@@ -43,6 +47,7 @@ const restaurants = [
       "The Farnsworth House Inn is a bed and breakfast and tourist attraction located in Gettysburg, Pennsylvania. ",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/55/b0/0d/farnsworth-house-tavern.jpg?w=900&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "1863 Restaurant",
@@ -50,6 +55,7 @@ const restaurants = [
       "Casual bistro in the Wyndham Hotel offering a menu of American eats, from omelets to steak.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/c3/d9/65/1863-restaurant-at-the.jpg?w=800&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "Appalachian Brewing Company",
@@ -57,6 +63,7 @@ const restaurants = [
       "Open, airy brewery serves housemade beers & craft sodas alongside burgers & other casual bites.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/38/1a/51/photo1jpg.jpg?w=2000&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
   {
     name: "Blue & Gray Bar & Grill",
@@ -64,6 +71,7 @@ const restaurants = [
       "Casual bistro in the Wyndham Hotel offering a menu of American eats, from omelets to steak.",
     image:
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/72/59/47/20180326-132421-largejpg.jpg?w=1000&h=-1&s=1",
+    link: "https://www.tripadvisor.com/Restaurant_Review-g60798-d1840300-Reviews-Garryowen_Irish_Pub-Gettysburg_Pennsylvania.html",
   },
 ];
 
