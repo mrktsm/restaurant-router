@@ -2,6 +2,13 @@
 
 Submitted by: **Marko Tsymbaliuk**
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='https://github.com/user-attachments/assets/193e1f46-f4ae-4b2c-8a8d-9f7d5b91fdcc' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+
+
 Discover the best dining spots in Gettysburg with our comprehensive guide to local restaurants. Whether you're craving a cozy café, a family-friendly eatery, or fine dining with a historic twist, we've got you covered. Explore menus, read reviews, and find the perfect place to satisfy your cravings while enjoying the rich history of Gettysburg.
 
 Time spent: **2** hours spent in total
@@ -17,26 +24,13 @@ The following **optional** features are implemented:
 
 - [ x ] Buttons or links to a related resources are on each card component
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-<img src='https://github.com/user-attachments/assets/708f727f-c1e1-45c9-aa7a-c97bddd9ed88' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2025 Marko Tsymbaliuk
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
