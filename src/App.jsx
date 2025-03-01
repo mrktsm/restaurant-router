@@ -24,9 +24,11 @@ const restaurants = [
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f2/b7/f0/great-bar-at-gettysburger.jpg?w=1400&h=-1&s=1",
   },
   {
-    name: "The Sushi Place",
-    description: "Fresh and tasty sushi!",
-    image: "/steak.jpg",
+    name: "Garryowen Irish Pub",
+    description:
+      "Over 20 Irish whiskies, draft beers & traditional Irish fare along with weekly live music.",
+    image:
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/36/67/bd/20201018-144215-largejpg.jpg?w=1000&h=-1&s=1",
   },
   {
     name: "The Sushi Place",

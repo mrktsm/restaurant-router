@@ -119,4 +119,5 @@
   margin: 0; /* Reset margin to remove unnecessary space */
   padding-top: 5px; /* Optional: add a small space between the text */
   font-weight: 100;
+  text-align: left;
 }
