@@ -1,0 +1,122 @@
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.steak-image {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  display: block;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(139, 69, 19, 0.5); /* Semi-transparent brown */
+}
+
+.text-content {
+  position: absolute;
+  top: 50%;
+  left: 10%; /* Aligns text to the left */
+  transform: translateY(-50%);
+  color: white;
+}
+
+.title {
+  font-size: 3.2em;
+  margin: 0;
+  font-weight: 450;
+}
+
+.subtitle {
+  font-size: 1.8em;
+  margin-top: 0.2em;
+  line-height: 1.5; /* More space between lines */
+}
+
+.subtitle-secondary {
+  font-size: 1.5em;
+  margin-top: 0; /* Remove the top margin */
+  margin-bottom: 0; /* Remove the bottom margin */
+  font-weight: 300;
+  opacity: 0.9; /* Slightly faded for subtle effect */
+}
+
+.subtitle-span {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.cta-button {
+  width: 180px;
+  margin-top: 1em;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: #d2691e; /* Chocolate brown */
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.3s ease;
+}
+
+.cta-button.small {
+  width: 120px;
+  padding: 8px 16px;
+  font-size: 1em;
+}
+
+.cta-button:hover {
+  background-color: #a0522d; /* Slightly darker brown */
+}
+
+.restaurant-cards {
+  background-color: #54331b; /* Brown color */
+  padding-left: 100px;
+  display: flex;
+  flex-wrap: wrap; /* Allows cards to wrap in multiple rows */
+  gap: 20px; /* Space between cards */
+}
+
+.restaurant-card {
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  width: 320px; /* Set a fixed width for the card */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center-align the content */
+  text-align: center; /* Center the text */
+  background-color: transparent; /* Make the card background transparent */
+}
+
+.restaurant-image {
+  width: 100%; /* Make image width 100% of the card */
+  height: 200px; /* Fixed height for the image */
+  object-fit: cover; /* Ensure the image covers the area */
+  border: 3px solid white; /* White border around the image */
+  border-radius: 2px; /* Rounded corners for the image */
+}
+
+.restaurant-card h1 {
+  font-size: 1.6em;
+  font-weight: 350;
+  margin-top: 10px; /* Reset margin to remove unnecessary space */
+  margin-bottom: 3px;
+  color: #9b816f; /* Brown color for the title */
+}
+
+.restaurant-card p {
+  font-size: 1em;
+  color: #d3d3d3; /* Dark text color for readability */
+  line-height: 1.4;
+  margin: 0; /* Reset margin to remove unnecessary space */
+  padding-top: 5px; /* Optional: add a small space between the text */
+  font-weight: 100;
+}
