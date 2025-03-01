@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/user-attachments/assets/708f727f-c1e1-45c9-aa7a-c97bddd9ed88' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/708f727f-c1e1-45c9-aa7a-c97bddd9ed88' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
